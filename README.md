@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Luis Reyes  
 
 <!--
 **morning-g/morning-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🔭 Passionate about software, and technology in general  
+🌱 I’m currently learning about software testing, documentation and CI/CD.  
+⚡ Focused on Backend Development  
+
 <hr>
 
-## Technologies
+## Technologies I've worked with
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -26,6 +30,7 @@ Here are some ideas to get you started:
   
 <!--   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   
   
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
